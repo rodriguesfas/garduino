@@ -10,5 +10,5 @@ Prof.: Francisco of Assis de Souza Rodrigues
 Prof.: Alexandro Ferreira
 
 #References
-http://goldberg.berkeley.edu/garden/Ars/
-https://www.youtube.com/watch?v=gbyy5vSg8w8
+- http://goldberg.berkeley.edu/garden/Ars/
+- https://www.youtube.com/watch?v=gbyy5vSg8w8
