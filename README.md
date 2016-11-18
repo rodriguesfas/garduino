@@ -1,7 +1,5 @@
 # Garduino
-Robotic arm design for watering plants
-
-Project developed for the Sciences Fair of the Objective Juazeiro do Norte College, developed by 7th grade students in Robotics and Computer Science classes.
+Robotic arm design for watering plants - Project developed for the Sciences Fair of the Objective Juazeiro do Norte College, developed by 7th grade students in Robotics and Computer Science classes.
 
 #Students:
 
