@@ -5,6 +5,9 @@ Robotic arm design for watering plants - Project developed for the Sciences Fair
 
 #Students:
 
+#Video
+[![Alt text](https://github.com/rodriguesfas/garduino/blob/master/img/bg_garduino.png)](https://www.youtube.com/watch?v=3K7nhO4LhVM)
+
 #Credits:
 - Prof.: Francisco de Assis de Souza Rodrigues
 - Prof.: Alexandro Ferreira
